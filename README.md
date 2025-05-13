@@ -16,24 +16,6 @@
 - 🥶 Fan de las duchas frías y la autodisciplina
 
 
-## 🚀 Proyectos en los que he trabajado
-
-### 🎓 [Academia Online](https://www.academia.agriformexico.com/)  
-Plataforma educativa  Permite la inscripción de estudiantes, seguimiento de progreso y generación de certificados automáticos. Orientada a facilitar el aprendizaje en línea de manera accesible y estructurada.
-
-### 🛒 [Tienda Online](https://tienda.agriformexico.com/)  
-E-commerce funcional con pasarelas de pago seguras e inventario en tiempo real. Optimiza el proceso de ventas y administración de productos, brindando una experiencia fluida tanto para usuarios como administradores.
-
-### 🏢 [Página Web Corporativa](https://www.agriformexico.com/)  
-Desarrollo de sitio institucional con enfoque en identidad de marca, comunicación profesional y contacto directo con clientes. Incluye herramientas de análisis y buenas prácticas SEO para mejorar visibilidad en buscadores.
-
-### 📘 [Plataforma Educativa IQ English](https://app.iqenglish.mx/)  
-Sistema web educativo orientado a la enseñanza de idiomas. Participé en la optimización del rendimiento, automatización de procesos, generación de reportes y gestión de horarios docentes.
-
-### 🧾 [Wiki Técnica de Agrifor](https://wiki.agriformexico.com/)  
-Documentación técnica colaborativa para el equipo de desarrollo de Agrifor. Organizada con estructura clara y enfoque en mantenibilidad.
-
----
 
 ## 🛠️ Tech Stack Visual
 
@@ -52,12 +34,23 @@ Documentación técnica colaborativa para el equipo de desarrollo de Agrifor. Or
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseRosendoDev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRosendoDev&layout=compact&theme=radical" />
-</p>
+## 🚀 Proyectos en los que he trabajado
+
+### 🎓 [Academia Online](https://www.academia.agriformexico.com/)  
+Plataforma educativa  Permite la inscripción de estudiantes, seguimiento de progreso y generación de certificados automáticos. Orientada a facilitar el aprendizaje en línea de manera accesible y estructurada.
+
+### 🛒 [Tienda Online](https://tienda.agriformexico.com/)  
+E-commerce funcional con pasarelas de pago seguras e inventario en tiempo real. Optimiza el proceso de ventas y administración de productos, brindando una experiencia fluida tanto para usuarios como administradores.
+
+### 🏢 [Página Web Corporativa](https://www.agriformexico.com/)  
+Desarrollo de sitio institucional con enfoque en identidad de marca, comunicación profesional y contacto directo con clientes. Incluye herramientas de análisis y buenas prácticas SEO para mejorar visibilidad en buscadores.
+
+### 📘 [Plataforma Educativa IQ English](https://app.iqenglish.mx/)  
+Sistema web educativo orientado a la enseñanza de idiomas. Participé en la optimización del rendimiento, automatización de procesos, generación de reportes y gestión de horarios docentes.
+
+### 🧾 [Wiki Técnica de Agrifor](https://wiki.agriformexico.com/)  
+Documentación técnica colaborativa para el equipo de desarrollo de Agrifor. Organizada con estructura clara y enfoque en mantenibilidad.
 
 ---
 
