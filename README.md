@@ -30,6 +30,8 @@ Desarrollo de sitio institucional con enfoque en identidad de marca, comunicaci�
 ### 📘 [Plataforma Educativa IQ English](https://app.iqenglish.mx/)  
 Sistema web educativo orientado a la enseñanza de idiomas. Participé en la optimización del rendimiento, automatización de procesos, generación de reportes y gestión de horarios docentes.
 
+### 🧾 [Wiki Técnica de Agrifor](https://wiki.agriformexico.com/)  
+Documentación técnica colaborativa para el equipo de desarrollo de Agrifor. Organizada con estructura clara y enfoque en mantenibilidad.
 
 ---
 
