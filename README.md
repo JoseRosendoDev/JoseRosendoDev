@@ -54,10 +54,6 @@ Documentación técnica colaborativa para el equipo de desarrollo de Agrifor. Or
 
 ---
 
-## 📫 Contacto
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosendo89.importante@gmail.com)
-
----
 
 ## ⚡ Frase que me define
 
