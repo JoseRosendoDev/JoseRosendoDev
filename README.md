@@ -9,8 +9,8 @@
 ### 🚀 Sobre mí
 
 - 🎓 Ingeniero en Sistemas Computacionales  
-- 💻 Desarrollador Flutter especializado en **arquitectura limpia**, **BLoC pattern**, y **mejores prácticas de eficiencia**
 - 🌐 Frontend Developer con fuerte enfoque en **UX/UI**, diseño adaptable y rendimiento web  
+- 💻 Desarrollador Flutter especializado en **arquitectura limpia**, **BLoC pattern**, y **mejores prácticas de eficiencia**
 - 🔐 Creador de [**shadow_vault**](https://github.com/JoseRosendoDev/shadow_vault)  
 - 🧠 En constante mejora técnica y personal  
 - 🥶 Fan de las duchas frías y la autodisciplina
@@ -18,15 +18,17 @@
 
 ## 🚀 Proyectos en los que he trabajado
 
+### 🎓 [Academia Online](https://www.academia.agriformexico.com/)  
+Plataforma educativa  Permite la inscripción de estudiantes, seguimiento de progreso y generación de certificados automáticos. Orientada a facilitar el aprendizaje en línea de manera accesible y estructurada.
 
-### 🎓 Academia Online  
+### 🛒 [Tienda Online](https://tienda.agriformexico.com/)  
+E-commerce funcional con pasarelas de pago seguras e inventario en tiempo real. Optimiza el proceso de ventas y administración de productos, brindando una experiencia fluida tanto para usuarios como administradores.
 
+### 🏢 [Página Web Corporativa](https://www.agriformexico.com/)  
+Desarrollo de sitio institucional con enfoque en identidad de marca, comunicación profesional y contacto directo con clientes. Incluye herramientas de análisis y buenas prácticas SEO para mejorar visibilidad en buscadores.
 
-### 🛒 Tienda Online  
-
-
-### 🏢 Página Web Corporativa  
-
+### 📘 [Plataforma Educativa IQ English](https://app.iqenglish.mx/)  
+Sistema web educativo orientado a la enseñanza de idiomas. Participé en la optimización del rendimiento, automatización de procesos, generación de reportes y gestión de horarios docentes.
 
 
 ---
