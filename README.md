@@ -15,37 +15,6 @@
 - 🧠 En constante mejora técnica y personal  
 - 🥶 Fan de las duchas frías y la autodisciplina
 
----
-
-## 🛠️ Habilidades Técnicas
-
-### 💡 Lenguajes
-- Dart, JavaScript, C#, Java
-
-### 📱 Flutter (Mobile)
-- Arquitectura limpia, BLoC, gestión de estado avanzada, Firebase, Sqflite, ObjectBox
-- Buenas prácticas, separación de responsabilidades, testing, escalabilidad
-
-### 🎨 Frontend Web / UI
-- **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**, **jQuery**, **React**
-- Principios sólidos de diseño UX/UI
-- Componentes reutilizables, mobile-first design y SEO básico
-
-### 🧠 Backend
-- .NET Core, ASP.NET, Entity Framework, LINQ
-
-### 💾 Bases de Datos
-- SQL Server, MongoDB, Firebase, ObjectBox, Sqflite
-
-### 🌐 APIs
-- Consumo de servicios RESTful y GraphQL
-
-### 🔧 Control de Versiones
-- Git & GitHub (ramas, PRs, resolución de conflictos)
-
----
-
-
 
 ## 🚀 Proyectos en los que he trabajado
 
@@ -89,8 +58,6 @@
 ---
 
 ## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joserosendo)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserosendo.dev@gmail.com)
 
 ---
